@@ -1,0 +1,4 @@
+protos:
+  - "hole/org/prj.proto"
+
+rel: github.com/tinyhole/util/idl-go
